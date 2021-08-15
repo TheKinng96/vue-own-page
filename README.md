@@ -1,29 +1,7 @@
-# ghost-frontend
+# OwnPageFE
 
-## Project setup
-```
-yarn install
-```
+This page github repo is to keep my work on own page safe.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+This page is a VueTs + class-component combination.
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+BE will use ghost service.
